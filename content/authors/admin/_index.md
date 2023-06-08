@@ -7,14 +7,14 @@ first_name: Lance
 last_name: Cai
 
 # Status emoji
-status:
-  icon: ☕️
+status: Enjoy
+  icon: 🍺
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Research Intern
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,6 +26,7 @@ bio: My research interests include industrial IoT and applied machine learning.
 
 # Interests to show in About widget
 interests:
+  - Bionic Quadruped Robot
   - Internet of Things (IoT)
   - Applied Machine Learning
 
@@ -70,11 +71,11 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'hanlin.cai@ieee.org'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am a junior majoring in **Automation** at Fuzhou University (China) and **Robotics & Intelligent Devices** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**.
+Mr. Cai is a junior majoring in **Automation** at Fuzhou University (China) and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, Cai is working as a research assistant in the Key Laboratory of Industrial Automation Control Technology and Information Processing (ICATIP), advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). His research interests are on the machine learning and its applications in industrial IoT.
 {style="text-align: justify;"}
