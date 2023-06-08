@@ -77,5 +77,5 @@ email: ''
 highlight_name: true
 ---
 
-Mr. Cai is a junior majoring in **Automation** at Fuzhou University (China) and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, Cai is working as a research assistant in the Key Laboratory of Industrial Automation Control Technology and Information Processing (ICATIP), advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). His research interests are on the machine learning and its applications in industrial IoT.
+Mr. Cai is a junior majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University. Currently, Mr. Cai is working as a research assistant in the Key Laboratory of Industrial Automation Control Technology and Information Processing (ICATIP), advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). His research interests are on the deep learning and its applications in industrial IoT.
 {style="text-align: justify;"}
