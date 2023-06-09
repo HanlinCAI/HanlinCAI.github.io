@@ -7,7 +7,7 @@ first_name: Lance
 last_name: Cai
 
 # Status emoji
-status: Enjoy
+status:
   icon: ☕️
 
 # Is this the primary user of the site?
@@ -56,7 +56,7 @@ social:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://caihanlin.com/
+    link: https://scholar.google.com/citations?user=8igSoWgAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
