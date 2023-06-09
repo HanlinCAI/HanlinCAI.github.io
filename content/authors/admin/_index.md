@@ -7,14 +7,14 @@ first_name: Lance
 last_name: Cai
 
 # Status emoji
-status: 
-  icon: 
+status: Life is beautiful
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Research Intern
+role: Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -50,19 +50,19 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/lancecai2002
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://caihanlin.com/
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/hanlin-cai-07b53b23b/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -71,11 +71,11 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'hanlin.cai@ieee.org'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Mr. Cai is a junior majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University. Currently, Mr. Cai is working as a research assistant in the Key Laboratory of Industrial Automation Control Technology and Information Processing (ICATIP), advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). His research interests are on the deep learning and its applications in industrial IoT.
+Mr. Cai is a junior majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University. Currently, Mr. Cai is working as a research assistant in the Key Laboratory of Industrial Automation Control Technology and Information Processing (IACTIP), advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). His research interests are on the deep learning and its applications in industrial IoT.
 {style="text-align: justify;"}
