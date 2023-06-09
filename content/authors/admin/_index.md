@@ -7,7 +7,7 @@ first_name: Lance
 last_name: Cai
 
 # Status emoji
-status: Life is beautiful
+status: Enjoy
   icon: ☕️
 
 # Is this the primary user of the site?
@@ -71,7 +71,7 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'hanlin.cai@ieee.org'
+email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
