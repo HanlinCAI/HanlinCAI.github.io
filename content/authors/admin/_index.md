@@ -27,8 +27,8 @@ bio: My research interests include industrial IoT and applied machine learning.
 # Interests to show in About widget
 interests:
   - Bionic Quadruped Robot
-  - Internet of Things (IoT)
   - Applied Machine Learning
+  - Industrial Internet of Things
 
 # Education to show in About widget
 education:
@@ -60,12 +60,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/GuangLun2000
-  - icon: linkedin
+  - icon: wordpress-simple
     icon_pack: fab
-    link: https://www.linkedin.com/in/hanlin-cai-07b53b23b/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
+    link: https://caihanlin.com/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
