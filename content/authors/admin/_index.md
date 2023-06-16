@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lance Cai 蔡汉霖
+title: Hanlin Cai (Lance)
 
 # Full name (for SEO)
 first_name: Lance
