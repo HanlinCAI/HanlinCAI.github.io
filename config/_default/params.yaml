@@ -33,7 +33,7 @@ header:
   navbar:
     enable: true
     align: l
-    show_logo: false
+    show_logo: true
     show_language: false
     show_day_night: true
     show_search: false
@@ -47,7 +47,7 @@ footer:
     license:
       enable: true
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
