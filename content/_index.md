@@ -16,7 +16,7 @@ sections:
       title: Contact
       text: |-
         I am looking for PhD position to start in 2025 Fall. Contact me if you have any leads!
-      email: Hanlin.cai@ieee.org
+      email: hanlin.cai@ieee.org
       appointment_url: 'https://calendly.com/lancecai/meet-with-lance?month=2023-06'
     design:
       columns: '2'
