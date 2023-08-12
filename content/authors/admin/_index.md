@@ -18,8 +18,8 @@ role: Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: IACTIP Laboratory
-    url: https://dqxy.fzu.edu.cn/en/index.htm
+  - name: Maynooth University
+    url: https://maynoothuniversity.ie/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include industrial IoT and applied machine learning.
@@ -49,21 +49,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/lancecai2002
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/GuangLun2000
   - icon: wordpress-simple
     icon_pack: fab
     link: https://caihanlin.com/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/GuangLun2000
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
@@ -75,5 +69,5 @@ email: ''
 highlight_name: true
 ---
 
-Mr. Cai is a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University. Currently, he is working as a research assistant in the Key Laboratory of Industrial Automation Control Technology and Information Processing (**IACTIP Lab**), advised by [Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Mr. Cai is actively searching for a PhD position to start in 2025 Fall.
+Mr. Cai is a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University. Currently, Cai is working as a research assistant in the Key Laboratory of Industrial Automation Control Technology and Information Processing (**IACTIP Lab**), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). He is actively searching for a PhD position to start in 2025 Fall.
 {style="text-align: justify;"}
