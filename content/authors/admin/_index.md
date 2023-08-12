@@ -53,15 +53,21 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  - icon: wordpress-simple
-    icon_pack: fab
-    link: https://caihanlin.com/
   - icon: github
     icon_pack: fab
     link: https://github.com/GuangLun2000
+  - icon: wordpress-simple
+    icon_pack: fab
+    link: https://caihanlin.com/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/lancecai2002
+    label: Follow me on Twitter
+    display:
+      header: true
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
