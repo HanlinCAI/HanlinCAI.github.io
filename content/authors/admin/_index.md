@@ -34,6 +34,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: Searching for PhD position
     - course: BSc in Automation
       institution: Fuzhou University, China
       year: 2024
