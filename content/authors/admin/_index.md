@@ -26,9 +26,10 @@ bio: My research interests include industrial IoT and applied machine learning.
 
 # Interests to show in About widget
 interests:
-  - Bionic Quadruped Robot
-  - Applied Machine Learning
   - Industrial Internet of Things
+  - Bluetooth Low Energy (BLE)
+  - IoT privacy and security
+  - Applied Machine Learning
 
 # Education to show in About widget
 education:
@@ -74,5 +75,5 @@ email: ''
 highlight_name: true
 ---
 
-Mr. Cai is a junior majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University. Currently, Mr. Cai is working as a research assistant in the Key Laboratory of Industrial Automation Control Technology and Information Processing (IACTIP), advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). His research interests are on the deep learning and its applications in industrial IoT.
+Mr. Cai is a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University. Currently, he is working as a research assistant in the Key Laboratory of Industrial Automation Control Technology and Information Processing (**IACTIP Lab**), advised by [Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Mr. Cai is actively searching for a PhD position to start in 2025 Fall.
 {style="text-align: justify;"}
