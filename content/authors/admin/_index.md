@@ -28,7 +28,7 @@ bio: My research interests include industrial IoT and applied machine learning.
 interests:
   - Industrial Internet of Things
   - Bluetooth Low Energy (BLE)
-  - IoT privacy and security
+  - Security in IoT Networks
   - Applied Machine Learning
 
 # Education to show in About widget
