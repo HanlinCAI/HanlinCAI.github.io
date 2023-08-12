@@ -56,18 +56,18 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/GuangLun2000
-  - icon: wordpress-simple
-    icon_pack: fab
-    link: https://caihanlin.com/
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/lancecai2002
     label: Follow me on Twitter
     display:
       header: true
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
+  - icon: wordpress-simple
+    icon_pack: fab
+    link: https://caihanlin.com/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
