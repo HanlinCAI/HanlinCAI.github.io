@@ -18,6 +18,8 @@ role: Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
+  - name: Fuzhou University
+    url: https://www.fzu.edu.cn/
   - name: Maynooth University
     url: https://maynoothuniversity.ie/
 
